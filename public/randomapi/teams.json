@@ -1,0 +1,180 @@
+{
+  "results": [
+    {
+
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Leon",
+        "last": "Ray"
+      },
+      "location": {
+        "street": {
+          "number": 2070,
+          "name": "Park Lane"
+        },
+        "city": "Winchester",
+        "state": "Hertfordshire",
+        "country": "United Kingdom",
+        "postcode": "A5 8UB",
+        "coordinates": {
+          "latitude": "-11.4837",
+          "longitude": "-15.2177"
+        },
+        "timezone": {
+          "offset": "-9:00",
+          "description": "Alaska"
+        }
+      },
+      "email": "leon.ray@example.com",
+      "login": {
+        "uuid": "9b139f7c-cda4-4b8b-8e2a-f9c5d00673bf",
+        "username": "blackmouse981",
+        "password": "tribe",
+        "salt": "XZPqRGRr",
+        "md5": "01a89a41446eb77790c43bdf67a25225",
+        "sha1": "7df04530528e910ca26e53c9c6af90f48dda5db8",
+        "sha256": "5ff12ed2db30d54fe26b1a01fe1a9486e7f05a2e457ab470d102483f6bc2633d"
+      },
+      "dob": {
+        "date": "1978-05-24T12:11:50.655Z",
+        "age": 46
+      },
+      "registered": {
+        "date": "2017-12-01T08:30:36.669Z",
+        "age": 6
+      },
+      "phone": "015395 57835",
+      "cell": "07947 159863",
+      "id": {
+        "name": "NINO",
+        "value": "CE 65 69 97 U"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/34.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Balendra",
+        "last": "Kini"
+      },
+      "location": {
+        "street": {
+          "number": 8474,
+          "name": "Pali Hill"
+        },
+        "city": "Gangtok",
+        "state": "Goa",
+        "country": "India",
+        "postcode": 96990,
+        "coordinates": {
+          "latitude": "-45.3705",
+          "longitude": "17.3766"
+        },
+        "timezone": {
+          "offset": "+3:00",
+          "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+        }
+      },
+      "email": "balendra.kini@example.com",
+      "login": {
+        "uuid": "d8274d78-ca78-4042-b4d0-0b76075dc170",
+        "username": "yellowtiger799",
+        "password": "kiss",
+        "salt": "t3VGVBgf",
+        "md5": "5de0cd6ee345ee70a92a80aab64d687a",
+        "sha1": "15ed81761ecf1404f388a3f8d65394cec83fc616",
+        "sha256": "66eae4ee3011191ad35b94b1485ffd9453b02760ea608870960b26b064ee3001"
+      },
+      "dob": {
+        "date": "1954-09-16T08:18:43.420Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2019-05-30T13:55:08.183Z",
+        "age": 5
+      },
+      "phone": "8927078490",
+      "cell": "9145586725",
+      "id": {
+        "name": "UIDAI",
+        "value": "912793191509"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/70.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+      },
+      "nat": "IN"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Melchior",
+        "last": "Souza"
+      },
+      "location": {
+        "street": {
+          "number": 1538,
+          "name": "Rua Piauí "
+        },
+        "city": "Jaboatão dos Guararapes",
+        "state": "Amapá",
+        "country": "Brazil",
+        "postcode": 54594,
+        "coordinates": {
+          "latitude": "-82.5224",
+          "longitude": "-134.7417"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "melchior.souza@example.com",
+      "login": {
+        "uuid": "9f57c025-8ce6-4938-814a-d49c0465c3ba",
+        "username": "angrytiger192",
+        "password": "venus",
+        "salt": "t1eCkurR",
+        "md5": "ce281e0610f33f3b247896072ad026b0",
+        "sha1": "05368cd41b7b237e16825d9bcb3c8e43a12c7873",
+        "sha256": "791297c37d6e1d6ef0d72fa1a1b103b8c6ec6c923086c5dc844e3f20f5ce25fd"
+      },
+      "dob": {
+        "date": "1988-02-27T19:09:14.467Z",
+        "age": 36
+      },
+      "registered": {
+        "date": "2003-01-12T09:41:18.919Z",
+        "age": 21
+      },
+      "phone": "(54) 3860-5751",
+      "cell": "(27) 1292-4581",
+      "id": {
+        "name": "CPF",
+        "value": "773.254.965-34"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/67.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+      },
+      "nat": "BR"
+    }
+  ],
+  "info": {
+    "seed": "5003516054486a19",
+    "results": 3,
+    "page": 1,
+    "version": "1.4"
+  }
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Cockatrice's Drumsticks",
+        "description": "Roasted cockatrice drumsticks, glazed with bbq sauce. Serverd with a whole sourdough bread.",
+        "price": 15,
+        "image": "/images/F&B/cockatricedrumstick.jpeg"
+    },
+    {
+        "id" : 2,
+        "name": "Dragon's Chili",
+        "description": "Spicy chili made with dragon meat, served with a side of bread sticks.",
+        "price": 12,
+        "image": "/images/F&B/dragonchili.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Crystal Bee's Honeycomb",
+        "description": "Honeycomb from the crystal bees of the enchanted forest, served with butter and warm bread.",
+        "price": 10,
+        "image": "/images/F&B/crystalbeehoneycomb.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Doomed Sky",
+        "description": "A refreshing drink made with the tears of a fallen angel, served cold and refreshing.",
+        "price": 5,
+        "image": "/images/F&B/doomedsky.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Dragon's Breath Ale",
+        "description": "A strong and bitter ale made with dragon's breath.",
+        "price": 7,
+        "image": "/images/F&B/dragonbreathale.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Dragon Chips",
+        "description": "Crispy chips made with dragon scales, served with a side of dragon's blood ketchup.",
+        "price": 10,
+        "image": "/images/F&B/dragonchips.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Dragon Omelette",
+        "description": "A fluffy omelette made with dragon eggs.",
+        "price": 10,
+        "image": "/images/F&B/dragonomelette.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Druid's Root Pie",
+        "description": "A delicious pie made with druid's roots, mushrooms, and cheese.",
+        "price": 13,
+        "image": "/images/F&B/druidrootpie.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Elven Wine",
+        "description": "A sweet and fruity wine made by the elves of the enchanted forest.",
+        "price": 10,
+        "image": "/images/F&B/elvenwine.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Enchanted Apple Dumplings",
+        "description": "Warm apple dumplings made with enchanted apples, sprinkled with cinamon and honey glaze.",
+        "price": 10,
+        "image": "/images/F&B/enchantedappledumpling.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Fae's Fairy Pastry",
+        "description": "A light and flaky pastry filled with fae's fairy dust, served with a side of whipped cream.",
+        "price": 10,
+        "image": "/images/F&B/faefairypastry.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Fruity Skewers",
+        "description": "Fresh fruit skewers made with fruits from the enchanted forest, served with a side of honey yogurt.",
+        "price": 8,
+        "image": "/images/F&B/fruityskewer.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Giant's Breakfast",
+        "description": "A hearty breakfast fit for a giant, with sausages, bacon, eggs, and toast.",
+        "price": 15,
+        "image": "/images/F&B/giantbreakfast.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Hearth Mushroom Stew",
+        "description": "A warm and hearty stew made with hearth mushrooms and edible flowers.",
+        "price": 12,
+        "image": "/images/F&B/hearthymushroomstew.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Unicorn's Nectar",
+        "description": "A sweet and refreshing drink made with unicorn tears and sparkling water.",
+        "price": 7,
+        "image": "/images/F&B/unicornnectar.jpeg"
+    }
+]

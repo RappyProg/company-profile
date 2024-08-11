@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Tavern Room",
+        "description": "A cozy room with a fireplace, perfect for relaxing after a long day of adventuring.",
+        "image": "/images/Accommodations/tavernroom.png"
+    },
+    {
+        "id": 2,
+        "name": "Tavern",
+        "description": "A lively tavern with a warm and welcoming atmosphere. Enjoy a drink or two with friends.",
+        "image": "/images/Accommodations/tavernlayout.png"
+    },
+    {
+        "id": 3,
+        "name": "Hotspring",
+        "description": "A natural hotspring surrounded by lush greenery. Perfect for unwinding and relaxing.",
+        "image": "/images/Accommodations/tavernhotspring.png"
+    }
+]
